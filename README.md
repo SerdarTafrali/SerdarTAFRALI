@@ -38,8 +38,10 @@ Dedicated and eager lifelong learner with a very solid mathematical background. 
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/0" alt="Recent Article 0"> 
  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/1" alt="Recent Article 1"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/2" alt="Recent Article 2"> 
  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/2" alt="Recent Article 2"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/1" alt="Recent Article 1"> 
+   
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/3" alt="Recent Article 3"> 
   
 ----
