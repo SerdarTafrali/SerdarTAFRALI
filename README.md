@@ -7,7 +7,7 @@
 
 -->
 
-Dedicated and eager lifelong learner with a very solid mathematical background. Professionally experienced in coaching, business development and digital marketing. Deeply passionate about data science, machine learning & artificial intelligence. Feel free to consult anything.
+Dedicated and eager lifelong learner with a very solid mathematical background. Professionally experienced in business development. Deeply passionate about data science, machine learning & artificial intelligence. Feel free to consult anything.
 <p><img align="right" src="https://komarev.com/ghpvc/?username=SerdarTafrali&style=flat-square&color=blue" alt=""/> </p>
 
 ## [My Licenses and Certifications](https://www.linkedin.com/in/serdartafrali/details/certifications/)
