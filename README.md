@@ -34,13 +34,6 @@ Dedicated and eager lifelong learner with a very solid mathematical background. 
 
 ----
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SerdarTafrali&show_icons=true&locale=en" alt="SerdarTafrali" /></p>
-
-
-
-----
-
 ### You can checkout recent my blogs about Data Science: 
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serdartafrali/0" alt="Recent Article 0"> 
